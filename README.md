@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](http://127.0.0.1:3000/Basics%20HTML%20&%20CSS/Testimonials-Grid-Section-Main/testimonials-grid-section-main/index.html?vscode-livepreview=true)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [http://127.0.0.1:3000/Basics%20HTML%20&%20CSS/Testimonials-Grid-Section-Main/testimonials-grid-section-main/index.html?vscode-livepreview=true]
+- Live Site URL: [https://your-live-site-url.com]
 
 ## My process
 
