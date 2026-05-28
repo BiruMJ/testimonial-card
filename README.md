@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [http://127.0.0.1:3000/Basics%20HTML%20&%20CSS/Testimonials-Grid-Section-Main/testimonials-grid-section-main/index.html?vscode-livepreview=true]
-- Live Site URL: [https://your-live-site-url.com]
+- Live Site URL: [https://cheery-fox-f5feb1.netlify.app/]
 
 ## My process
 
